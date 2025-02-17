@@ -47,7 +47,7 @@ function App() {
   };
 
   return (
-    <div style={{ padding: "24px" }}>
+    <div style={{ padding: "20px" }}>
       <h2>Manajemen Pengguna</h2>
 
       <input
